@@ -1,3 +1,10 @@
+/*****************************************************
+ * Program: Loops (6) - For Vs While
+ * Author: TALI OSU
+ * Description: Description of when for loops should be used and when while loops should be used.
+ * Video Link: 
+ * **************************************************/
+
 #include <iostream>
 using namespace std;
 
