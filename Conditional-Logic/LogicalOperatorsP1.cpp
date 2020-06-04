@@ -1,3 +1,10 @@
+/********************************************
+ * Program: Conditional Logic (2) - Logical Operators P1
+ * Author: TALI OSU
+ * Description: An introduction to the logical operators and, or, and not.
+ * Video Link:
+ * *****************************************/
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,10 @@
+/****************************************************
+ * Program: Conditional Logic (3) - Conditional Operators P2
+ * Author: TALI OSU
+ * Description: An introduction to how to use logical operators with if/else statements.
+ * Video Link:
+ * ************************************************/
+
 #include <iostream>
 using namespace std;
 
