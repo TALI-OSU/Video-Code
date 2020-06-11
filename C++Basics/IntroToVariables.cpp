@@ -1,3 +1,10 @@
+/******************************************
+ * Program: C++ Basics (2) - Intro to Variables
+ * Author: TALI OSU
+ * Description: How to declare variables in a C++ program.
+ * Video Link:
+ * **************************************/
+
 #include <iostream>
 
 using namespace std;
