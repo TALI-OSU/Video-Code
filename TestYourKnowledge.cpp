@@ -1,14 +1,22 @@
+/******************************************
+ * Program: Loops (9) - Test Your Knowledge
+ * Author: TALI OSU
+ * Description: A coding challenge to test your knowlege of loops. The challenge is to build a sum calculator.
+ * Video Link: 
+ * ***************************************/
+
 #include <iostream>
 
 using namespace std;
 
 int main() {
+	
 	int num_amount;
-	bool run_again = true;
-	int sum;
 	int temp;
+	int sum;
+	int run_again = 1;
 
-	while(run_again) {
+	while(run_again != 0) {
 		cout << "Enter the amount of numbers you would like to add: ";
 		cin >> num_amount;
 
@@ -26,7 +34,6 @@ int main() {
 		}
 
 		cout << "Your final number is " << sum << endl;
-
 		cout << "Would you like to do another add? (type 0 if no)" << endl;
 		cin >> run_again;
 	}
