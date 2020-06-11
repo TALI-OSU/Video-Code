@@ -1,3 +1,10 @@
+/******************************************
+ * Program: Loops (7) - Continue and Break
+ * Author: TALI OSU
+ * Description: An introduction to continue and break statements in the context of for loops.
+ * Video Link: 
+ * ***************************************/
+
 #include <iostream>
 
 using namespace std;
