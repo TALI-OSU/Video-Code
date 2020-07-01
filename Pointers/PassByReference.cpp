@@ -10,7 +10,6 @@
 using namespace std;
 
 void foo(int &val) {
-   cout << &val << endl;
    val = 7;
 }
 
