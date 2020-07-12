@@ -3,7 +3,7 @@
  * Author: TALI OSU
  * Description: How to initialize variables and use arithmetic operators to modify their values.
  * Video Link:
- * **************************************/
+ * ***************************************/
 
 #include <iostream>
 using namespace std;
