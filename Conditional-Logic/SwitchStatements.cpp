@@ -1,3 +1,10 @@
+/******************************************
+ * Program: Conditional Logic (4) - Switch Statements
+ * Author: TALI OSU
+ * Description: An introduction to switch statements
+ * Video Link: 
+ * ***************************************/
+
 #include <iostream>
 using namespace std;
 
